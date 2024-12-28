@@ -1,0 +1,170 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* ---------------------- Section-1 ----------------------- */
+.section-1 {
+    padding-top: 120px;
+    padding-bottom: 150px; 
+    background-image: url(../images/pictures/top-img.webp);
+    background-position: 30%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sec1-text h6{
+    color: #ffffff;
+    margin-top: 15px;
+}
+.sec1-text > h1{
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 50px;
+}
+.get-now{
+    background-color: #2A3A47;
+    color: #ffffff;
+    padding: 16px 33px;
+    text-decoration: none;
+    position: relative;
+    top: 30px;
+}
+.get-now:hover{
+    background-color: #fff;
+    color: #2A3A47;
+}
+
+
+/* ------------------------- Section-2 ------------------------ */
+
+
+.sec-2-cont {
+    height: 300px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background-position: center;
+}
+.meet-btn{
+    text-decoration: none;
+    color: #fff;
+    background-color: #2285D9;
+    font-size: 13px;
+    padding: 16px 25px;
+}
+.meet-btn:hover{
+    background-color: #fff;
+    color: #2285D9;
+}
+.sec2-left-img {
+    background-image: url('../images/pictures/top2-img.webp');
+}
+.sec2-right-img {
+    background-image: url('../images/pictures/top2.1-img.webp');
+}
+
+.love-care-txt{
+    margin-left: 190px;
+}
+.deal-txt{
+    position: relative;
+    bottom: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* ----------------------- Section-3 ------------------------- */
+.add-cart-btn-need{
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #2285D9;
+    padding: 16px 40px;
+    font-size: 13px;
+    text-align: center;
+}
+
+/* ------------- border-line ----------------- */
+.border-line{
+    border-left: #364146 solid 5px;
+    height: 70px;
+}
+.border-line-text{
+    position: relative;
+    top: 22px;
+}
+.well-line{
+    position: relative;
+    bottom: 35px;
+}
+
+/* ----------------------- Section-4 ------------------------ */
+
+
+
+/* --------------- section-6 -------------------- */
+
+.section-6{
+    background-image: url('../images/pictures/appointment-bg-img.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 328px;
+    margin-top: 160px;
+}
+.appointment-btn{
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #2A3A47;
+    padding: 16px 60px;
+    font-size: 14px;
+}
+.appointment-btn:hover{
+    background-color: #fff;
+    color: #2A3A47;
+}
+.sec6-img{
+    position: relative;
+    bottom: 125px;
+}
+.sec6-txt{
+    position: relative;
+    bottom: 70px;
+}
+
+/* --------------------------- Section-7 ----------------------------- */
+.sec7-txt{
+    font-size: 15px;
+}
+.table-padding{
+    padding: 45px;
+}
+table{
+    border-color: rgba(223, 221, 221, 0.807);
+}
+/* -------------------------- section-8 ---------------------------- */
+
+.section-8{
+    background-color: #FCFCFC;
+    padding: 10px 25px;
+}
+.last-design{
+    margin-top: 60px;
+}
+.last-dd{
+    align-items: center;
+    display: flex;
+}
+.side-top-head{
+    background-color: #364146;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 15px;
+    height: 50px;
+}
+
